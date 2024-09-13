@@ -1,4 +1,6 @@
-#!/bin/bash 
+#!/bin/bash
+
+##  Hi, my name  is Danya. This is my road   go to DevOps.
 COUNTER=0 
 while [ $COUNTER -lt 10 ] 
 do 

@@ -1,6 +1,7 @@
 #!/bin/bash
 
 ##  Hi, my name  is Danya. This is my road   go to DevOps.
+## This is  new branch :)
 COUNTER=0 
 while [ $COUNTER -lt 10 ] 
 do 
